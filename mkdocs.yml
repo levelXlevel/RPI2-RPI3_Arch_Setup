@@ -1,0 +1,7 @@
+site_name: ARCH Linux Setup 32bit Pi2/3
+theme:
+  name: material
+  highlightjs: true
+nav:
+  - Home: index.md
+  - Docs: docs.md
