@@ -17,7 +17,7 @@ Answer; They're good enough for data collection and reporting.
 
 1. Version 1.1
 2. 1GB RAM
-3. Waveshare 30mm fan hat with .96" monochrome OLED display
+3. 52Pi Raspberry Pi Fan Expansion Board w/ 0.91 OLED V1.0
 4. SD Card
 5. 32GB USB Drive
 6. UCtronics POE splitter
@@ -26,7 +26,7 @@ Answer; They're good enough for data collection and reporting.
 
 1. Version 1.2
 2. 1GB RAM
-3. Waveshare 30mm fan hat with .96" monochrome OLED display
+3. 52Pi Raspberry Pi Fan Expansion Board w/ 0.91 OLED V1.0
 4. SD Card
 5. 32GB USB Drive
 6. UCtronics POE splitter
